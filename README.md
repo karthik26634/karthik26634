@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**karthik26634/karthik26634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year B.Tech student learning cybersecurity step by step.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔐 Building security tools in Python
+- 📚 Learning networking and web security basics
+- 💻 Practicing C for placements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Password Strength Checker](https://github.com/karthik26634/password_strength_checker): entropy, pattern and leet-speak detection with a CLI
+
+## Next up
+- Hash cracker (educational)
